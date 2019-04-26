@@ -1,0 +1,14 @@
+config venv django
+* cmd na pasta do projeto
+* criar virtual env => python -m venv nome_env
+* ativar venv santaenv\Scripts\activate
+* instalar o django pip install django
+
+
+criaçao do projeto
+* mkdir nome_do_projeto\
+* django-admin startproject nome_projeto.
+
+
+criar superuser django admin
+* python manage.py createsuperuser
